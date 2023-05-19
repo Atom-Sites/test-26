@@ -1,0 +1,21 @@
+{
+    "headerText": "Why Choose XCEL Physical Therapy?",
+    "uspDescription": "At XCEL Physical Therapy, we are dedicated to providing personalized care and effective treatments to help our patients achieve their goals. Our experienced team of therapists work closely with each patient to develop a customized plan that addresses their unique needs and challenges.",
+    "features": [
+        {
+            "name": "Experienced Team",
+            "description": "Our team of skilled therapists have years of experience in the field of physical therapy, ensuring that you receive the highest quality care and treatment.",
+            "href": "#"
+        },
+        {
+            "name": "Personalized Care",
+            "description": "We understand that each patient's needs are unique, which is why we create customized treatment plans tailored to your specific goals and challenges.",
+            "href": "#"
+        },
+        {
+            "name": "Proven Results",
+            "description": "Our patients consistently report positive outcomes and improved quality of life after completing their treatment programs at XCEL Physical Therapy.",
+            "href": "#"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "services": [
+        {
+            "serviceBlurb": "Revolutionary Pain Relief",
+            "serviceSlug": "Experience the latest techniques in physical therapy for pain relief.",
+            "serviceText": "Our expert therapists utilize cutting-edge methods to alleviate pain and improve mobility. We focus on personalized treatment plans that target the root cause of your discomfort, ensuring long-lasting results.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/1075831724/stock-photo-unrecognizable-senior-physiotherapist-working-with-a-female-patient-1075831724.jpg",
+            "imageAlt": "",
+            "features": [
+                {
+                    "name": "Targeted Pain Relief",
+                    "description": "Our therapists identify the source of your pain and develop a customized treatment plan to address your specific needs."
+                },
+                {
+                    "name": "Advanced Techniques",
+                    "description": "We stay up-to-date with the latest advancements in physical therapy to provide the most effective treatments for our patients."
+                },
+                {
+                    "name": "Long-lasting Results",
+                    "description": "Our goal is to not only relieve your pain but also prevent it from returning by addressing the underlying issues."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Sports Injury Recovery",
+            "serviceSlug": "Get back in the game with our specialized sports injury treatments.",
+            "serviceText": "Our sports injury recovery program is designed to help athletes of all levels return to their sport as quickly and safely as possible. Our therapists work closely with you to develop a tailored rehabilitation plan that addresses your specific needs and goals.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/162718586/167978798/stock-photo-doctor-supervising-the-recovery-of-his-patient-after-knee-surgery-167978798.jpg",
+            "imageAlt": "",
+            "features": [
+                {
+                    "name": "Personalized Rehabilitation",
+                    "description": "We create a customized recovery plan based on your specific injury, sport, and performance goals."
+                },
+                {
+                    "name": "Injury Prevention",
+                    "description": "Our therapists teach you proper techniques and exercises to help prevent future injuries."
+                },
+                {
+                    "name": "Performance Enhancement",
+                    "description": "We focus on improving your overall athletic performance, including strength, flexibility, and endurance."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Post-Surgical Rehabilitation",
+            "serviceSlug": "Maximize your recovery after surgery with our comprehensive rehab program.",
+            "serviceText": "Our post-surgical rehabilitation program is designed to help you regain strength, mobility, and function after surgery. Our experienced therapists work closely with your surgeon to develop a personalized treatment plan that ensures a safe and effective recovery.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/1188666178/stock-photo-professional-physiotherapist-supporting-patient-with-orthopedic-problem-1188666178.jpg",
+            "imageAlt": "",
+            "features": [
+                {
+                    "name": "Collaborative Care",
+                    "description": "We work closely with your surgeon to develop a tailored rehabilitation plan that aligns with your surgical goals."
+                },
+                {
+                    "name": "Functional Recovery",
+                    "description": "Our therapists focus on restoring your ability to perform daily activities and return to your pre-surgery lifestyle."
+                },
+                {
+                    "name": "Progress Monitoring",
+                    "description": "We closely monitor your progress and adjust your treatment plan as needed to ensure optimal recovery."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Balance & Fall Prevention",
+            "serviceSlug": "Improve your balance and reduce your risk of falls with our specialized program.",
+            "serviceText": "Our balance and fall prevention program is designed to help individuals of all ages improve their balance, coordination, and overall stability. Our therapists use evidence-based techniques to assess and address your specific balance issues, reducing your risk of falls and enhancing your quality of life.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/283466185/1852642465/stock-photo-a-side-view-of-an-elderly-woman-in-gym-stretching-upside-down-on-a-gray-fitness-ball-1852642465.jpg",
+            "imageAlt": "",
+            "features": [
+                {
+                    "name": "Comprehensive Assessment",
+                    "description": "Our therapists conduct a thorough evaluation to identify the factors contributing to your balance issues."
+                },
+                {
+                    "name": "Customized Treatment",
+                    "description": "We develop a personalized treatment plan that targets your specific balance and stability needs."
+                },
+                {
+                    "name": "Improved Quality of Life",
+                    "description": "By enhancing your balance and reducing your risk of falls, we help you maintain your independence and enjoy a more active lifestyle."
+                }
+            ]
+        }
+    ],
+    "anchor": "services"
+}

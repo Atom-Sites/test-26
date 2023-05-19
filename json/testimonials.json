@@ -1,0 +1,39 @@
+{
+    "headerText": "Testimonials",
+    "headerSubText": "Read what our clients have to say about their experience with XCEL Physical Therapy.",
+    "testimonials": [
+        {
+            "body": "The staff was fun to be around and very friendly. They helped me get back to doing what I love.",
+            "author": {
+                "name": "Elly Krieg",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "My husband and daughter have both received excellent care at XCEL Physical Therapy.  Highly recommend.",
+            "author": {
+                "name": "Connie Smith",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Excellent job, would definitely use them again",
+            "author": {
+                "name": "John Clark",
+                "source": "NiceJob",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "They are helping me get stronger in my rotator cuff area and helping me come back so I can play baseball again!",
+            "author": {
+                "name": "Noah Harbin",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        }
+    ],
+    "anchor": "testimonials"
+}

@@ -1,0 +1,18 @@
+{
+    "logoImage": "https://cdn.nicejob.co/uploads/production/6586359565516800/1674534289979_5413024949338112_435_resized.jpg",
+    "logoImageAlt": "XCEL Physical Therapy Logo",
+    "address": "Not provided",
+    "phone": "+12173359235",
+    "email": "ryley@xcelphysicaltherapy.com",
+    "socials": [
+        {"name": "Google", "href": "https://maps.google.com/maps?cid=17663938265858832825"},
+        {"name": "Facebook", "href": "https://www.facebook.com/108913358512107/reviews"}
+    ],
+    "services": [
+        {"name": "Physiotherapy", "href": "#services"}
+    ],
+    "review_href": "#reviews",
+    "services_href": "#services",
+    "contact_href": "#contact",
+    "anchor": "footer"
+}
